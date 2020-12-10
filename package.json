@@ -6,5 +6,9 @@
   "author": "David Fong (https://github.com/david-fong)",
   "repository": "github:david-fong/snakey3",
   "homepage": "https://youtu.be/dQw4w9WgXcQ",
-  "main": "index.js"
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ]
 }
