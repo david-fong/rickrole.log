@@ -1,10 +1,10 @@
 {
   "name": "rickrole.log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🕺💃 rickroll users who open the browser console.",
   "keywords": ["front-end", "silly", "rickroll"],
   "author": "David Fong (https://github.com/david-fong)",
-  "repository": "github:david-fong/snakey3",
+  "repository": "github:david-fong/rickrole.log",
   "homepage": "https://youtu.be/dQw4w9WgXcQ",
   "main": "index.js",
   "files": [
